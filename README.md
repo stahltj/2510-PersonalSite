@@ -1,5 +1,6 @@
 # Getting Started
 
+- Make sure you fork this repository to your Github account
 - Review the rubric in the Canvas Module.
 - Create five functional files: <code>index.html, about.html, portfolio.html, contact.html, style.css.</code>
 
