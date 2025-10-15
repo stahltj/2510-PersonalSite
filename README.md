@@ -1,9 +1,7 @@
 # Getting Started
 
-Review the rubric in the Canvas Module.
-In this GitHub repository include more than one branch (including main) with descriptive branch names.
-Have more than one commit with descriptive commit messages.
-Create five functional files: <code>index.html, about.html, portfolio.html, style.css.</code>
+- Review the rubric in the Canvas Module.
+- Create five functional files: <code>index.html, about.html, portfolio.html, style.css.</code>
 
 # Requirements
 
