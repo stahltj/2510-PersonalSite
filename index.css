@@ -2,9 +2,9 @@
   background-color: black;
   color: white;
   display: flex;
-  flex-direction: column;
   border-radius: 1rem;
   flex-wrap: wrap;
+  font-family: arial;
 }
 nav a {
   display: flex;
@@ -28,8 +28,11 @@ h1 {
   font-family: arial;
   text-decoration: underline;
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   flex-wrap: wrap-reverse;
+}
+header p {
+  font-family: arial;
 }
 h2 {
   font-family: arial;
@@ -43,6 +46,8 @@ h2 {
 .socialLinks a {
   color: white;
   margin: 1rem;
+  display: flex;
+  justify-content: center;
 }
 body {
   background-color: lightgray;
@@ -52,7 +57,7 @@ img {
   display: flex;
   max-width: 75vw;
   max-height: 75vh;
-  justify-content: flex-end;
+  justify-content: center;
 }
 
 div p {
@@ -86,4 +91,14 @@ footer {
   border-radius: 1rem;
   padding: 1%;
   display: flex;
+  font-family: arial;
+  text-decoration: underline;
+  justify-content: center;
+}
+h4 {
+  font-family: arial;
+  text-decoration: underline;
+  font-style: oblique;
+  display: flex;
+  justify-content: center;
 }
