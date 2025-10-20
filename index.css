@@ -1,0 +1,89 @@
+.navBar {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  flex-wrap: wrap;
+}
+nav a {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  color: white;
+  margin: 1rem;
+}
+
+.aboutMe {
+  font-family: helvetica;
+}
+h3 {
+  background-color: black;
+  color: lightgray;
+  border-radius: 1rem;
+  padding: 1rem;
+  font-family: helvetica;
+}
+h1 {
+  font-family: arial;
+  text-decoration: underline;
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap-reverse;
+}
+h2 {
+  font-family: arial;
+}
+.socialLinks {
+  background-color: black;
+  color: white;
+  border-radius: 1rem;
+  font-family: arial;
+}
+.socialLinks a {
+  color: white;
+  margin: 1rem;
+}
+body {
+  background-color: lightgray;
+}
+
+img {
+  display: flex;
+  max-width: 75vw;
+  max-height: 75vh;
+  justify-content: flex-end;
+}
+
+div p {
+  border: 0.5rem solid slategray;
+  padding: 1%;
+  font-family: helvetica;
+  display: flex;
+  flex-direction: column;
+}
+
+form label {
+  font-family: helvetica;
+  display: flex;
+}
+input {
+  display: flex;
+  justify-content: space-around;
+}
+button {
+  display: flex;
+  justify-content: center;
+  size: 1rem;
+}
+
+.message {
+  min-height: 5rem;
+  justify-content: flex-start;
+}
+
+footer {
+  border-radius: 1rem;
+  padding: 1%;
+  display: flex;
+}
