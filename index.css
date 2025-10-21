@@ -23,6 +23,13 @@ nav a {
   border-radius: 1rem;
   margin-inline: 1vw;
 }
+nav a:hover {
+  background-color: white;
+  color: black;
+  padding: 1.5rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
 .mainChunk {
   background-color: lightgray;
   padding: 2rem;
@@ -78,6 +85,13 @@ footer {
   padding: 0.5rem;
   color: white;
 }
+.socialLinks a:hover {
+  background-color: white;
+  color: black;
+  padding: 1rem;
+  font-size: 1em;
+  cursor: pointer;
+}
 h3 {
   display: flex;
   justify-content: center;
@@ -115,4 +129,14 @@ h4 {
 }
 label {
   font-family: arial;
+}
+button {
+  background-color: darkgray;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: slategray;
 }
